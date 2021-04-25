@@ -14,7 +14,6 @@ jobs:
       - uses: siddharth2016/update-readme-image@main
         with:
           IMG_ALT: Image ALT
-          IMG_PATH: ''
           IMG_REPOSITORY: aenichols/animoos
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           README_REPOSITORY: aenichols/animoos
