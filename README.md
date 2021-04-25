@@ -1,4 +1,4 @@
 # animoos
 Peeps of culture only
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c946cc1b-c10d-4aa8-99b0-a52d691eb87c/dbrhaas-beddb6af-9910-43e8-a293-e0de9d93b225.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYzk0NmNjMWItYzEwZC00YWE4LTk5YjAtYTUyZDY5MWViODdjXC9kYnJoYWFzLWJlZGRiNmFmLTk5MTAtNDNlOC1hMjkzLWUwZGU5ZDkzYjIyNS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.a9QSQSU0lBmuWaJDEtNOYQun0qJTKXnV1XCraW9tKwE" />
+<img src="https://github.com/aenichols/animoos/blob/main/07u2d0gno7p61.jpg?raw=true" />
