@@ -2,7 +2,7 @@
 Peeps of culture only
 
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/aenichols/animoos/main/.github/images/1gs48.jpg height=180px width=180px align=right alt=Image ALT />
+<img src=https://raw.githubusercontent.com/aenichols/animoos/main/sn0rbum0xfk61.png height=180px width=180px align=right alt=Profile Image />
 <!--END_SECTION:update_image-->
 
 ![](https://github.com/aenichols/animoos/blob/main/07u2d0gno7p61.jpg?raw=true)
