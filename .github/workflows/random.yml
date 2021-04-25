@@ -17,3 +17,6 @@ jobs:
           IMG_REPOSITORY: aenichols/animoos
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           README_REPOSITORY: aenichols/animoos
+          HEIGHT: ""
+          WIDTH: ""
+          ALIGN: ""
